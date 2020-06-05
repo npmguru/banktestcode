@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "27be901458be77617726a3e497bda648",
+    "revision": "6c33e774ef22bed4041d62f4d4e5ff96",
     "url": "/banktestcode/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/banktestcode/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "8fb73928f0016b8b737a",
+    "revision": "69b32011f792505b2c9c",
     "url": "/banktestcode/static/css/main.132bdc21.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/banktestcode/static/js/2.3c5e5061.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8fb73928f0016b8b737a",
-    "url": "/banktestcode/static/js/main.df33a144.chunk.js"
+    "revision": "69b32011f792505b2c9c",
+    "url": "/banktestcode/static/js/main.619bf9d3.chunk.js"
   },
   {
     "revision": "00875597f65beaaae87b",
