@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/banktestcode/static/css/main.132bdc21.chunk.css",
-    "main.js": "/banktestcode/static/js/main.8656703e.chunk.js",
-    "main.js.map": "/banktestcode/static/js/main.8656703e.chunk.js.map",
+    "main.js": "/banktestcode/static/js/main.df33a144.chunk.js",
+    "main.js.map": "/banktestcode/static/js/main.df33a144.chunk.js.map",
     "runtime-main.js": "/banktestcode/static/js/runtime-main.7ec96501.js",
     "runtime-main.js.map": "/banktestcode/static/js/runtime-main.7ec96501.js.map",
     "static/css/2.829c9cb5.chunk.css": "/banktestcode/static/css/2.829c9cb5.chunk.css",
     "static/js/2.3c5e5061.chunk.js": "/banktestcode/static/js/2.3c5e5061.chunk.js",
     "static/js/2.3c5e5061.chunk.js.map": "/banktestcode/static/js/2.3c5e5061.chunk.js.map",
     "index.html": "/banktestcode/index.html",
-    "precache-manifest.308ebdec4b9f9b373863bec88b4302d5.js": "/banktestcode/precache-manifest.308ebdec4b9f9b373863bec88b4302d5.js",
+    "precache-manifest.a6bf6a39f6f5f809056b101ce6b277a8.js": "/banktestcode/precache-manifest.a6bf6a39f6f5f809056b101ce6b277a8.js",
     "service-worker.js": "/banktestcode/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/banktestcode/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.132bdc21.chunk.css.map": "/banktestcode/static/css/main.132bdc21.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.3c5e5061.chunk.js",
     "static/css/main.132bdc21.chunk.css",
-    "static/js/main.8656703e.chunk.js"
+    "static/js/main.df33a144.chunk.js"
   ]
 }
