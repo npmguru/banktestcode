@@ -14,6 +14,8 @@ This applition build in lastest React version. This application have 3 page load
 `npm run start`
 
 ## Login Credencial
+
+**URL**: https://npmguru.github.io/banktestcode/
 **Email**: anandkar@gmail.com
 **Password**: 123456
 
