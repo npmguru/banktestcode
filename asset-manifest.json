@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/banktestcode/static/css/main.132bdc21.chunk.css",
+    "main.js": "/banktestcode/static/js/main.2e82c150.chunk.js",
+    "main.js.map": "/banktestcode/static/js/main.2e82c150.chunk.js.map",
+    "runtime-main.js": "/banktestcode/static/js/runtime-main.7ec96501.js",
+    "runtime-main.js.map": "/banktestcode/static/js/runtime-main.7ec96501.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/banktestcode/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.3c5e5061.chunk.js": "/banktestcode/static/js/2.3c5e5061.chunk.js",
+    "static/js/2.3c5e5061.chunk.js.map": "/banktestcode/static/js/2.3c5e5061.chunk.js.map",
+    "index.html": "/banktestcode/index.html",
+    "precache-manifest.8f479c58d8c5c1a246e9fcc6cffbe206.js": "/banktestcode/precache-manifest.8f479c58d8c5c1a246e9fcc6cffbe206.js",
+    "service-worker.js": "/banktestcode/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/banktestcode/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.132bdc21.chunk.css.map": "/banktestcode/static/css/main.132bdc21.chunk.css.map",
+    "static/js/2.3c5e5061.chunk.js.LICENSE.txt": "/banktestcode/static/js/2.3c5e5061.chunk.js.LICENSE.txt",
+    "static/media/loading.svg": "/banktestcode/static/media/loading.b314f576.svg",
+    "static/media/logo.png": "/banktestcode/static/media/logo.0869a981.png",
+    "static/media/rakbank-logo.jpg": "/banktestcode/static/media/rakbank-logo.12dbd523.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ec96501.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.3c5e5061.chunk.js",
+    "static/css/main.132bdc21.chunk.css",
+    "static/js/main.2e82c150.chunk.js"
+  ]
+}
