@@ -4,14 +4,11 @@ This applition build in lastest React version. This application have 3 page load
 
 ## v1 upgrade
 **Web**: no breaking changes
-**React Native**: Users must now explicitly pass their storage engine in. e.g.
+**Application Installation**: Users must follow below command for instalation 
 ```js
-import AsyncStorage from '@react-native-community/async-storage';
+cd /banktestcode/
 
-const persistConfig = {
-  //...
-  storage: AsyncStorage
-}
+npm install
 ```
 
 ## Quickstart
