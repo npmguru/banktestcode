@@ -5,11 +5,11 @@ This applition build in lastest React version. This application have 3 page load
 ## v1 upgrade
 **Web**: no breaking changes
 **Application Installation**: Users must follow below command for instalation 
-```js
-cd /banktestcode/
+`git clone https://github.com/npmguru/banktestcode.git`
 
-npm install
-```
+`cd /banktestcode/`
+
+`npm install`
 
 ## Quickstart
 `npm install redux-persist`
