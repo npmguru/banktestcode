@@ -1,9 +1,9 @@
 # Bank Assessment Test
 
-This applition build in lastest React version. This application have 3 page loading, login and dashboard.
+This applition build in lastest React version. This application have 3 pages loading, login and dashboard.
 
 ## v1 upgrade
-**Application Installation**: Users must follow below command for instalation 
+**Application Installation**: Follow below command instruction for installation this application 
 
 `git clone https://github.com/npmguru/banktestcode.git`
 
