@@ -23,7 +23,7 @@ ReactDOM.render(
       <PersistGate persistor={PERSIST_STORE}>
           <BrowserRouter>
               <App>
-                  <Route path="/" exact component={Loading} />
+                  <Route path="/banktestcode/" exact component={Loading} />
                   <Route path="/login" exact component={Login} />
                   <PrivateRoute path="/dashboard" >
                       <Dashboard />
