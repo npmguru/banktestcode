@@ -3,7 +3,7 @@
 This applition build in lastest React version. This application have 3 pages loading, login and dashboard.
 
 ## v1 upgrade
-**Application Installation**: Follow below command instruction for installation this application 
+**Application Installation**: Following below step for installation application 
 
 `git clone https://github.com/npmguru/banktestcode.git`
 
